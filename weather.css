@@ -1,0 +1,65 @@
+html,body{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+#navi {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.styled-select {
+   overflow: hidden;
+}
+.styled-select select {
+   background: transparent;
+   color: #777;
+   border: 1px solid #ddd;
+   font-size: 80%;
+}
+
+div.progress {
+  font-size: 12px;
+  color: #888;
+}
+
+body{
+    text-align:center;
+}
+
+div#error {
+    text-align: left;
+    background-color: #fee;
+    border: solid 1px #a88;
+    padding: 1em;
+}
+
+.image-box {
+    overflow: hidden;
+}
+
+.image-svg {
+    display: block;
+}
+
+.weekname {
+    color: #666;
+}
+
+.condition {
+    color: #666;
+    font-size: 70%;
+}
+
+.deg_max {
+    color: #a00;
+}
+
+.deg_min {
+    color: #00a;
+}
+
+td {
+    text-align: center;
+}

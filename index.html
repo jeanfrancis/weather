@@ -1,1 +1,27 @@
-My GitHub Page!!
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8" />
+    <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+    <title>Weather</title>
+    <script src="jquery.js" type="text/javascript"></script>
+    <script src="date.js" type="text/javascript"></script>
+    <script src="weather.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+          initialize();
+      });    
+      $(window).resize(function() {
+          initialize();
+      });    
+      
+    </script>
+    <link rel="stylesheet" type="text/css" media="screen" href="weather.css">
+</head>
+<body>
+    <div id="vert-hoz">
+        <div id="subpage">
+        </div>
+    </div>
+</body>
+</html>

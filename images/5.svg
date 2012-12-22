@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="Layer_5"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px"
+	 viewBox="0 0 60 60" xml:space="preserve">
+<g>
+	<rect x="1.156" y="10.042" fill="none" width="56.69" height="40.677"/>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.646" y1="40.7217" x2="23.646" y2="25.4424">
+			<stop  offset="0" style="stop-color:#9194A4"/>
+			<stop  offset="0.0505" style="stop-color:#8F94A5"/>
+			<stop  offset="0.0687" style="stop-color:#8895AB"/>
+			<stop  offset="0.0787" style="stop-color:#8095B1"/>
+			<stop  offset="0.2385" style="stop-color:#9EACBE"/>
+			<stop  offset="0.4128" style="stop-color:#B8BFC9"/>
+			<stop  offset="0.5939" style="stop-color:#CACDD1"/>
+			<stop  offset="0.7845" style="stop-color:#D4D5D5"/>
+			<stop  offset="1" style="stop-color:#D8D8D7"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M27.092,28.415c-0.605-4.512-12.445-4.012-11.205,2.347c-6.18-1.001-7.691,9.923-2.093,9.923
+			c0,0,18.515,0.078,20.28,0.006C39.239,40.201,37.831,25.995,27.092,28.415L27.092,28.415z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="35.9219" y1="34.5186" x2="35.9219" y2="19.2383">
+			<stop  offset="0" style="stop-color:#9194A4"/>
+			<stop  offset="0.0505" style="stop-color:#8F94A5"/>
+			<stop  offset="0.0687" style="stop-color:#8895AB"/>
+			<stop  offset="0.0787" style="stop-color:#8095B1"/>
+			<stop  offset="0.2385" style="stop-color:#9EACBE"/>
+			<stop  offset="0.4128" style="stop-color:#B8BFC9"/>
+			<stop  offset="0.5939" style="stop-color:#CACDD1"/>
+			<stop  offset="0.7845" style="stop-color:#D4D5D5"/>
+			<stop  offset="1" style="stop-color:#D8D8D7"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M39.368,22.211c-0.607-4.513-12.445-4.012-11.206,2.346c-6.178-1-7.689,9.924-2.091,9.924
+			c0,0,18.516,0.078,20.281,0.006C51.515,33.997,50.108,19.792,39.368,22.211L39.368,22.211z"/>
+	</g>
+</g>
+</svg>
